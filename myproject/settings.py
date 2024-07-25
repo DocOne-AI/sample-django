@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-inl624gepf%ohd#b4vpa59=i=euu_+f1@bmqfi7)^z496@tqk#
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
+ALLOWED_HOSTS = ['ryan.docone.ai', 'localhost', '127.0.0.1', '[::1]']
 
 
 # Application definition
